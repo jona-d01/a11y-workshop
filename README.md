@@ -56,3 +56,7 @@ Anleitung:
 - [WCAG 2.1 (deutsch)](https://outline-rocks.github.io/wcag/translations/WCAG21-de/)
 - [axe DevTools](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
 - [Deque Color Contrast Analyzer](https://dequeuniversity.com/color-contrast)
+
+### Unterlagen:
+
+- [Präsentations-Folien](a11y-workshop-slides.pdf)
