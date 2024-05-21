@@ -57,6 +57,6 @@ Anleitung:
 - [axe DevTools](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
 - [Deque Color Contrast Analyzer](https://dequeuniversity.com/color-contrast)
 
-### Unterlagen:
+## Unterlagen:
 
 - [Präsentations-Folien](a11y-workshop-slides.pdf)
